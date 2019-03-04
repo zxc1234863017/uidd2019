@@ -1,0 +1,63 @@
+body
+{
+	font-family: verdana;
+	font-weight: normal;
+}
+
+#step
+{
+	position : absolute;
+	top: 5px;
+	left: 600px;
+}
+
+#cross
+{
+	width : 16px;
+	height : 16px;
+	position : relative;
+	top: 5px;
+	left: 5px;
+}
+
+#bgimg
+{
+    width: 1280px;
+    height: 720px;
+    position:absolute;
+	left: 500px;
+    clip:rect(0px,1080px,1280px,400px);
+	overflow: hidden;
+}
+
+.info
+{
+	position: relative;
+	top: 50px;
+	left: 100px;
+}
+
+.info #A
+{
+	font-size : 2em;
+}
+
+.info #B
+{
+	font-size : 0.3em;
+}
+
+.input
+{
+	position: relative;
+	top: 150px;
+	left: 100px;
+}
+
+.input textarea
+{	
+	background-color: transparent;
+	border-color: transparent;
+	border-bottom-width: 2px;
+	border-bottom-color: orange;
+}
