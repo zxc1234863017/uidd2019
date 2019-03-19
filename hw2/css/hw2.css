@@ -1,0 +1,26 @@
+body{
+	background-image: url("../image/background.jpg");
+	background-repeat: no-repeat;
+	background-size: 85vw auto;
+}
+
+#tri{
+	width: 47vw;
+	position:absolute;
+	margin-top: 22vw;
+	left:0.5vw;
+}
+
+#start{
+	width: 10vw;
+	position:absolute;
+	margin-top: 26vw;
+	left:69vw;
+}
+
+#train{
+	width: 50vw;
+	position:absolute;
+	margin-top: 34.2vw;
+	left:11vw;
+}
